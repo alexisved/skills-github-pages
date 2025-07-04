@@ -2,6 +2,6 @@
 title: Welcome to my blog! Wow!
 ---
 
-#GitHub is insane!
+# GitHub is insane!
 
-##Skilling and funny
+## Skilling and funny
