@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog! Wow!
 ---
+
+#GitHub is insane!
+
+##Skilling and funny
